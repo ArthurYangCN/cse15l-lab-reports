@@ -30,7 +30,7 @@ Output: The file if it exists. Error, if the file doesn't exist.
 
 
 # cat command:
-![Image](cat.png)
+![Image](cat1.png)
 Working Directory: /workspaces/cse15l-lab-reports
 'cat' with no arguments. Nothing behind the command.
 Output: Waits for input.
