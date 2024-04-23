@@ -14,7 +14,7 @@ Working Directory: `/workspaces/cse15l-lab-reports`
 
 `cd` With Directory Path:
 
-Output: No direct output and nothing changes.
+Output: No direct output and nothing changes, because I am changing to the same directory path. So, I am still in the same directory.
 ![Image](cd3.png)
 Working Directory: `/workspaces/cse15l-lab-reports`
 
