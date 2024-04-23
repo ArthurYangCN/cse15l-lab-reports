@@ -25,16 +25,16 @@ Output: Error, file path is not a directory.
 # ls command:
 
 ![Image](ls.png)
-Working Directory: /workspaces/cse15l-lab-reports
-'ls' with no arguments. Nothing behind the command.
+Working Directory: `/workspaces/cse15l-lab-reports`
+`ls` with no arguments: (Nothing behind the command)
 Output: Files and directories listed.
 
-Working Directory: /workspaces/cse15l-lab-reports
-'ls' with Directory Path:
+Working Directory: `/workspaces/cse15l-lab-reports`
+`ls` with Directory Path:
 Output: Contents of the specified directory.
 
-Working Directory: /workspaces/cse15l-lab-reports
-'ls' with File Path:
+Working Directory: `/workspaces/cse15l-lab-reports`
+`ls` with File Path:
 Output: The file if it exists. Error, if the file doesn't exist.
 
 
