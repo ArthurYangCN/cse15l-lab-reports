@@ -1,6 +1,6 @@
 # Lab report 1:
 
-# cd command:
+# `cd` command:
 
 ![Image](cd.png)
 
@@ -22,7 +22,7 @@ Working Directory: `/workspaces/cse15l-lab-reports`
 
 Output: Error, file path is not a directory.
 
-# ls command:
+# `ls` command:
 
 ![Image](ls.png)
 Working Directory: `/workspaces/cse15l-lab-reports`
@@ -38,17 +38,17 @@ Working Directory: `/workspaces/cse15l-lab-reports`
 Output: The file if it exists. Error, if the file doesn't exist.
 
 
-# cat command:
+# `cat` command:
 ![Image](cat1.png)
-Working Directory: /workspaces/cse15l-lab-reports
-'cat' with no arguments. Nothing behind the command.
+Working Directory: `/workspaces/cse15l-lab-reports`
+`cat` with no arguments. Nothing behind the command.
 Output: Waits for input.
 ![Image](cat2.png)
-Working Directory: /workspaces/cse15l-lab-reports
-'ls' with Directory Path:
+Working Directory: `/workspaces/cse15l-lab-reports`
+`ls` with Directory Path:
 Output: Error, the argument is a directory, not a file.
 
-Working Directory: /workspaces/cse15l-lab-reports
-'ls' with File Path:
+Working Directory: `/workspaces/cse15l-lab-reports`
+`ls` with File Path:
 Output: Contents of the file. Error, if the file doesn't exist.
 
