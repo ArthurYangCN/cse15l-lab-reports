@@ -7,16 +7,19 @@
 Working Directory: `/workspaces/cse15l-lab-reports`
 
 `cd` with no arguments: (Nothing behind the command)
+
 Output: no output, but the working directory changes. It returns the user to the home directory '~'.
 ![Image](cd2.png)
 Working Directory: `/workspaces/cse15l-lab-reports`
 
 `cd` With Directory Path:
+
 Output: No direct output and nothing changes.
 ![Image](cd3.png)
 Working Directory: `/workspaces/cse15l-lab-reports`
 
 `cd` With File Path:
+
 Output: Error, file path is not a directory.
 
 # ls command:
