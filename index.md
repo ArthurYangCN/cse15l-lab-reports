@@ -6,7 +6,7 @@
 
 Working Directory: `/workspaces/cse15l-lab-reports`
 
-`cd` with no arguments. Nothing behind the command.
+`cd` with no arguments: (Nothing behind the command)
 Output: no output, but the working directory changes. It returns the user to the home directory '~'.
 ![Image](cd2.png)
 Working Directory: `/workspaces/cse15l-lab-reports`
