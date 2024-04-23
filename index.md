@@ -20,14 +20,14 @@ Working Directory: `/workspaces/cse15l-lab-reports`
 
 `cd` With File Path:
 
-Output: Error, file path is not a directory.
+Output: Error. This is because the file path is not a directory. `cd` can only change current directory to a directory, not a file.
 
 # `ls` command:
 
 ![Image](ls.png)
 Working Directory: `/workspaces/cse15l-lab-reports`
 `ls` with no arguments: (Nothing behind the command)
-Output: Files and directories listed.
+Output: Files and directories listed. It won't show error, because it directly list files and directories in current path.
 
 Working Directory: `/workspaces/cse15l-lab-reports`
 `ls` with Directory Path:
@@ -46,7 +46,7 @@ Output: Waits for input. This is not an error. It enters a mode where it waits f
 ![Image](cat2.png)
 Working Directory: `/workspaces/cse15l-lab-reports`
 `cat` with Directory Path:
-Output: Error. This is because the argument is a directory, not a file. `cat` can take the file as the argument.
+Output: Error. This is because the argument is a directory, not a file. `cat` command can take the file as the argument.
 
 Working Directory: `/workspaces/cse15l-lab-reports`
 `cat` with File Path:
