@@ -41,14 +41,14 @@ Output: The file if it exists. Error, if the file doesn't exist.
 # `cat` command:
 ![Image](cat1.png)
 Working Directory: `/workspaces/cse15l-lab-reports`
-`cat` with no arguments. Nothing behind the command.
-Output: Waits for input.
+`cat` with no arguments: (Nothing behind the command)
+Output: Waits for input. This is not an error. It enters a mode where it waits for input from the standard input
 ![Image](cat2.png)
 Working Directory: `/workspaces/cse15l-lab-reports`
-`ls` with Directory Path:
-Output: Error, the argument is a directory, not a file.
+`cat` with Directory Path:
+Output: Error. This is because the argument is a directory, not a file. `cat` can take the file as the argument.
 
 Working Directory: `/workspaces/cse15l-lab-reports`
-`ls` with File Path:
-Output: Contents of the file. Error, if the file doesn't exist.
+`cat` with File Path:
+Output: Contents of the file. This can shows Error, if the file doesn't exist in that path.
 
