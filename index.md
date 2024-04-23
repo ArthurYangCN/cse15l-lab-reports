@@ -51,5 +51,5 @@ Output: Error. This is because the argument is a directory, not a file. `cat` co
 
 Working Directory: `/workspaces/cse15l-lab-reports`
 `cat` with File Path:
-Output: Contents of the file. This can shows Error, if the file doesn't exist in that path.
+Output: Contents of the file `index.md`. This can shows Error, if the file doesn't exist in that path.
 
